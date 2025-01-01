@@ -10,6 +10,7 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
+  basePath: '/english',
 };
 
 module.exports = nextConfig;
